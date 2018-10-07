@@ -4,14 +4,11 @@ using System.Text;
 
 namespace SpoonCMS.Utilities
 {
-    static class utils
+    static class Utils
     {
         static string MinifyJS(string jsCode)
         {
-            string minifiedCode = "";
-
-
-            return minifiedCode;
+            throw new NotImplementedException();
         }
     }
 }
